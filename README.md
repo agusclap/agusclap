@@ -1,21 +1,19 @@
-# 👋 Hola, soy Agustín Rodeyro
+# 👋 Hi, I'm Agustín Rodeyro
 
-💻 Estudiante de **Ingeniería en Informática (IUA - Córdoba/Argentina)**  
-
+💻 **Software Engineering student (IUA - Argentina)**  
 
 ---
 
-### 🚀 Actualmente estoy:
+### 🚀 Currently working on:
 
-- Desarrollando un sistema de reconocimiento facial con **YOLO + FastAPI + pgvector** (control de acceso / gimnasios).
-
-- Aprendiendo **DevOps / infraestructura** (Docker, Linux, Nginx, CI/CD).
+- Developing a facial recognition access control system using **YOLO + FastAPI + pgvector** (for gyms / access automation).
+- Learning **DevOps / infrastructure** (Docker, Linux, Nginx, CI/CD).
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Lenguajes:**
+**Languages:**
 - Java · JavaScript · Python · C++ · SQL
 
 **Backend:**
@@ -24,15 +22,15 @@
 **Frontend:**
 - Vue 3 · Vuetify · Vite · HTML/CSS/JS
 
-**Bases de Datos:**
-- PostgreSQL · MySQL · pgvector · MariaDB
+**Databases:**
+- PostgreSQL · MySQL · pgvector
 
 **Infra / DevOps:**
 - Docker · Linux · Git · VirtualBox
 
 ---
 
-### 📊 Estadísticas
+### 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=agusclap&show_icons=true&theme=tokyonight" height="160" />
@@ -41,11 +39,11 @@
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 - 📧 Email: rodeyroagustin@gmail.com  
-- 💼 LinkedIn: [https://linkedin.com/in/agustin-rodeyro](https://www.linkedin.com/in/agustin-rodeyro-704864387/)  
+- 💼 LinkedIn: https://linkedin.com/in/agustin-rodeyro  
 
 ---
 
-> _"No busco ser mejor que nadie, solo mejor que mi versión de ayer."_ ✨
+> _"I don't aim to be better than anyone — only better than who I was yesterday."_ ✨
