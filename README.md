@@ -4,13 +4,6 @@
 
 ---
 
-### 🚀 Currently working on:
-
-- Developing a facial recognition access control system using **YOLO + FastAPI + pgvector** (for gyms / access automation).
-- Learning **DevOps / infrastructure** (Docker, Linux, Nginx, CI/CD).
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages:**
